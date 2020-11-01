@@ -32,11 +32,13 @@ The world of technology has altered human lives into AI generation. From the bus
 ##  Dataset
 
 
-This dataset consists  __1 video__ 
 
-The dataset were collected from the following sources:
 
-* Gooogle 
+* pascal voc dataset 2007
+
+* pascal voc dataset 2012
+
+*test video : https://www.youtube.com/watch?v=vLRfj7ZZRpw
 
 
 
@@ -47,7 +49,7 @@ A method to use the dataset from Kaggle to train the predication model by Artifi
 ## Results
 
 #### Input
-![](https://github.com/ArthurShen8118/Object_Detective/blob/main/Readme_images/2020-11-01%2012%2051%2054.png)
+![](https://github.com/ArthurShen8118/Object_Detective/blob/main/Readme_images/2020-11-01%2012%2054%2054.png)
 #### Output
 ![](https://github.com/ArthurShen8118/Object_Detective/blob/main/Readme_images/2020-11-01%2012%2051%2056.png)
 
