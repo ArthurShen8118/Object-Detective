@@ -38,7 +38,7 @@ The world of technology has altered human lives into AI generation. From the bus
 
 * pascal voc dataset 2012
 
-*test video : https://www.youtube.com/watch?v=vLRfj7ZZRpw
+* test video : https://www.youtube.com/watch?v=vLRfj7ZZRpw
 
 
 
