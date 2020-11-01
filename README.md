@@ -16,7 +16,7 @@
 </div>
 
 ## Motivation
-The world of technology has altered human lives into AI generation. From the business analytics to the most sophisticated of autonomous vehicle, AI involves our daily life more and more. This project presents one of AI concepts as deep learning approach to detect the dog in video automatically. We can apply this concept to the another technologies more around our daily life ex: auto-pilot, auto-vehicle.
+The world of technology has altered human lives into AI generation. From the business analytics to the most sophisticated of autonomous vehicle, AI involves our daily life more and more. This project presents one of AI concepts as deep learning approach to detect the bird in video automatically. We use the framwork of object detection which is SSD. We can apply this concept to the another technologies more around our daily life ex: auto-pilot, auto-vehicle.
 
  
 
@@ -44,7 +44,7 @@ The world of technology has altered human lives into AI generation. From the bus
 
 
 ## Features
-A method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset and we use Google Colab to train our model and then we use the model we trained to classify the image we take. The result is good.  
+A method to use the dataset from pascal voc dataset 2007/2012 to train the predication model by SSD. Also, we use the test video to see if the SSD model can detect object as below result. The result is good.  
 
 ## Results
 
